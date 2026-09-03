@@ -1,0 +1,1 @@
+const CHAVE_api = "5ec46e9eea2ab5a4cbee8d9e79fe9020";
